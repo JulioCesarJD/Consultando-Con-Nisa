@@ -33,8 +33,8 @@ Las consultas se envían automáticamente a través de un **bot** que he desarro
 ## 📷 Capturas de Pantalla
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="./img/1.png" alt="App Screenshot 1" width="250"/>
-  <img src="./img/2.png" alt="App Screenshot 1" width="250"/>
+  <img src="./img/web.jpg" alt="App Screenshot 1" width="250"/>
+  <img src="./img/web1.png" alt="App Screenshot 1" width="250"/>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
