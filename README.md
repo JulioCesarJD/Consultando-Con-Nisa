@@ -34,7 +34,7 @@ Las consultas se envían automáticamente a través de un **bot** que he desarro
 
 Puedes acceder a la landing page de la pediatra Vianel Ventura aquí:
 
-👉 [**Visitar sitio web**](https://www.tu-sitio-web.com](https://consultandoconnisa.azurewebsites.net/) 👈
+👉 [**Visitar sitio web**](https://consultandoconnisa.azurewebsites.net/) 👈
 
 ## 📷 Capturas de Pantalla
 
