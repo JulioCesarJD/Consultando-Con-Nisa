@@ -45,7 +45,7 @@ Puedes acceder a la landing page de la pediatra Vianel Ventura aquí:
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="./img/movil1.jpg.jpg" alt="App Screenshot 1" width="250"/>
+  <img src="./img/movil1.jpg" alt="App Screenshot 1" width="250"/>
   <img src="./img/movil2.jpg" alt="App Screenshot 1" width="250"/>
 </div>
 
