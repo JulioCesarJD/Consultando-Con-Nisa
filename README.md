@@ -28,7 +28,7 @@ Las consultas se envían automáticamente a través de un **bot** que he desarro
 ## 🌐 Características Adicionales
 
 - **Optimización de rendimiento**: Se trabajó en la carga eficiente del sitio para mejorar la experiencia de usuario.
-- **Bot personalizado**: Un bot desarrollado por mí gestiona la comunicación automatizada, asegurando respuestas rápidas y eficientes para cada consulta.
+- **Bot personalizado**: Un bot desarrollado por mí, gestiona la comunicación automatizada, asegurando respuestas rápidas y eficientes para cada consulta.
 
 ## 🌐 Enlace a la Web
 
